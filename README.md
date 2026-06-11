@@ -1,4 +1,4 @@
-# akhtar-suhail.github.io
+# Suhail Akhtar | Research Fellow at Trinity College Dublin
 
 # This repository contains the source files for Suhail Akhtar's personal academic website, built as a static GitHub Pages site.
 
